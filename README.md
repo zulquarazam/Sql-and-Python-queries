@@ -1,1 +1,1 @@
-# Sql-and-Python-queries
+Business Analysis using Pyhthon and SQL
